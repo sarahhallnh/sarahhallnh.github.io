@@ -1,0 +1,27 @@
+.red
+    {
+    color: #C93F22;
+    }
+.white
+    {
+    color: #FFFFFF;
+    }
+.centered
+    {
+    text-align: center;
+    }
+.font
+    {
+    font-family: "Lucida Console", monospace;
+    }
+
+.bodyfont
+{
+    font-family: verdana;
+    font-size: 17px;
+}
+
+.desc
+{
+    text-shadow: 2px 2px #ff0000;
+}
